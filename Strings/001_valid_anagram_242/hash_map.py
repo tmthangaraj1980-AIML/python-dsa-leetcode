@@ -1,4 +1,3 @@
-
 s = input("Enter first string: ")
 t = input("Enter second string: ")
 
